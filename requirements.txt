@@ -2,5 +2,8 @@ numpy
 pandas
 torch
 torchvision
+pillow<7
 pytoan
 albumentations
+pycocotools
+requests
